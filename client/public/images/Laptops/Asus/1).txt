@@ -1,0 +1,42 @@
+1)
+
+	
+
+
+2)
+
+['las20',
+ 'ASUS TUF Gaming A15 FA506QM-HN124W AMD Ryzen 9',
+ '15.6 inch, 16GB, 512GB, Windows 11 Home, NVIDIA GeForce RTX 3060, FHD IPS Display, Graphite Black, 90NR0607-M003K0',
+"images/asus/las20.avif",
+"images/asus/las21.avif",
+"images/asus/las22.avif",
+"images/asus/las23.avif",
+ 4, 210, false, 'TUF Gaming', 'Laptops',
+ 119990, 98000, 200, 132],
+Features:
+
+<li>512GB SSD</li>
+<li>Windows 11 Home</li>
+<li>15.6-Inch Full HD Display </li>
+<li>16GB DDR4 RAM </li>
+<li>AMD Ryzen 9 Octa Core 10th Gen Processor</li>
+
+3)
+
+['las30',
+ 'Asus ROG Strix G15 AMD Ryzen 7 ',
+ '15.6 inch, 16GB, 1TB, Windows 11 Home, MS Office 2021, NVIDIA GeForce RTX 3050 Ti, Full HD IPS Display, Eclipse Gray, 90NR0582-M001K0',
+"images/asus/las30.avif",
+"images/asus/las31.avif",
+"images/asus/las32.avif",
+"images/asus/las33.avif",
+ 4.5, 210, false, 'ROG Strix', 'Laptops',
+ 115990, 85990, 350, 195],
+Features:
+
+<li>15.6-in FHD Display</li>
+<li>AMD Ryzen 7 4800H Mobile Processor</li>
+<li>16GB DDR4</li>
+<li>1TB PCIe 3.0 NVMe M.2 SSD </li>
+

@@ -1,0 +1,108 @@
+1) insert 
+['asa10',
+ 'Apple Airpods (3rd Generation) with Lightning Charging Case',
+ 'The Apple Airpods (3rd Generation) with Lightning​​​​​​​ Charging Case comes in a lightweight design and ensures a comfortable and secure fit. They are positioned at the ideal angle for comfort and improved audio delivery to your ear. The stem of the third-generation AirPods is 33% shorter and has a force sensor for simple music and phone control. It offers up to 4 hours of talk time and 6 hours of listening time. You can talk or listen for about an hour after just 5 minutes of charging. You may listen for up to 30 hours in total with the lightning charging case.',
+"images/earphones/apple/asa10.webp",
+"images/earphones/apple/asa11.webp",
+"images/earphones/apple/asa12.webp",
+"images/earphones/apple/asa13.webp",
+ 4.5, 312, false, 'Airpods (3rd Generation)', 'HeadPhones',
+ 19900, 18999, 120, 83],
+Feauters:
+<li> With Adaptive EQ </li>
+<li> Spatial Audio </li>
+<li> 6 hours of Listening Time</li>
+<li> Lightweight Design </li>
+<li> IPX4 Rated </li>
+
+2)insert 
+['asa20',
+ 'APPLE Airpods Max Bluetooth Headset  (Silver, On the Ear)',
+ 'AirPods Max reimagine over-ear headphones. An Apple designed dynamic driver provides immersive high fidelity audio. Every detail, from canopy to cushions, has been designed for an      exceptional fit. Industry leading Active Noise Cancellation blocks outside noise, while Transparency mode lets it in. And spatial audio with dynamic head tracking provides theatre like sound that surrounds you.',
+"images/earphones/apple/asa20.webp",
+"images/earphones/apple/asa21.webp",
+"images/earphones/apple/asa22.webp",
+"images/earphones/apple/asa23.webp",
+ 4.0, 212, false, 'MGYJ3HN/A', 'HeadPhones',
+ 59900, 58999, 80, 43],
+Feauters:
+<li> With Mic:Yes </li>
+<li> Bluetooth version: 5 </li>
+<li> Color: Silver</li>
+<li> Weight: 384.8 g </li>
+
+3)insert 
+['asa30',
+ 'APPLE EarPods with 3.5mm Headphone Plug Wired Headset ',
+ 'Unlike traditional, circular earbuds, the design of the EarPods is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones.The speakers inside the EarPods have been engineered to maximize sound output and minimize sound loss, which means you get high-quality audio. The EarPods also include a built-in remote that lets you adjust the volume, control the playback of music and video, and answer or end calls with a pinch of the cord.
+Warranty Description: 1 Year Warranty',
+"images/earphones/apple/asa30.webp",
+"images/earphones/apple/asa31.webp",
+"images/earphones/apple/asa32.webp",
+"images/earphones/apple/asa33.webp",
+ 4.5, 310, false, 'MNHF2ZM/A', 'HeadPhones',
+ 1699, 1545, 180, 143],
+Feauters:
+<li> With Mic:Yes </li>
+<li> Connector type: 3.5 mm </li>
+<li> Extra bass: Add extra thump to your music </li>
+<li> Bluetooth version: 5 </li>
+<li> Color: white</li>
+<li> Headphone Type: In the Ear</li>
+
+
+4)insert 
+['asb10',
+ 'boAt Airdopes 113 Wireless Gaming Earbuds with Environmental Noise Cancellation  ',
+ 'Experience the best music listening with the boAt Airdopes 113 Wireless Gaming Earbuds with Environmental Noise Cancellation. Discover the power of its 13mm drivers, which enable the music to ring out clearly and loudly during every jam session. Be astounded by the music of the future rather than merely listening to these earphones. Conversations are as clear as they would be in person thanks to ENx technology. You will always be heard thanks to Airdopes 113. With the aid of the Insta Wake N' Pair technology, connecting and unplugging your Airdopes takes only a few seconds. To wake them up, simply lift the lid, and to disconnect, just shut it.',
+"images/earphones/boat/asb10.webp",
+"images/earphones/boat/asb11.webp",
+"images/earphones/boat/asb12.webp",
+"images/earphones/boat/asb13.webp",
+ 4.0, 300, false, ' Airdopes 113', 'HeadPhones',
+ 1999, 1899, 210, 143],
+Feauters:
+<li> Orientation Type: In Ear </li>
+<li> Connectivity: Bluetooth, Version 5.2 </li>
+<li> Battery Life: 24 Hours </li>
+<li> Fast Charging: Yes </li>
+<li> Voice Assistant: Yes </li>
+
+
+5)insert 
+['asb20',
+ 'boAt Rockerz 558 Bluetooth Headset with Mic ',
+ 'If you are looking for an efficient wireless headset, then this boAt headset is ideal for you. Its 50 mm drivers bring your audio files to life so that your aural experience is immersive. Moreover, you can enjoy up to 10 hours of playback time with a fully charged battery. Furthermore, it can be connected to your media devices with the help of an AUX cable as well.',
+"images/earphones/boat/asb20.webp",
+"images/earphones/boat/asb21.webp",
+"images/earphones/boat/asb22.webp",
+"images/earphones/boat/asb23.webp",
+ 4.5, 300, false, ' Rockerz 518', 'HeadPhones',
+ 1999, 1899, 200, 183],
+Feauters:
+<li> Orientation Type: Over Ear </li>
+<li> Connectivity: Bluetooth, Version 5.0 </li>
+<li> Battery Life: 20 Hours Playtime </li>
+<li> Fast Charging: No </li>
+<li> Noise Cancellation: Noise Isolation</li>
+
+6)insert 
+['asb30',
+ 'boAt BassHeads 100 Wired Headset  ',
+ 'If you are looking for a stylish pair of wired earphones, you should consider the boAt BassHeads 100 earphones. The earbuds of this pair of earphones come with a unique design that is inspired by the hawk and looks extremely trendy. The boAt BassHeads 100 earphones are also lightweight and can be worn easily for long durations.',
+"images/earphones/boat/asb30.webp",
+"images/earphones/boat/asb31.webp",
+"images/earphones/boat/asb32.webp",
+"images/earphones/boat/asb33.webp",
+ 4.5, 300, false, ' BassHeads 100', 'HeadPhones',
+ 999, 399, 300, 213],
+Feauters:
+<li> With Mic:Yes </li>
+<li> Connector type: 3.5mm headphone jack </li>
+<li> Hawk-inspired design </li>
+<li> In-line Microphone </li>
+<li> Integrated Multifunction Control </li>
+
+
+
+

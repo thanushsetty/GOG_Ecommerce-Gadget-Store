@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --title-16px-regular: Poppins;
+  --heading-24px-bold: Inter;
+
+  /* font sizes */
+  --title-16px-regular-size: 16px;
+  --title-12px-medium-size: 12px;
+  --title-20px-medium-size: 20px;
+  --heading-24px-bold-size: 24px;
+  --title-14px-semibold-size: 14px;
+  --font-size-2xs: 11px;
+  --heading-36px-semibold-size: 36px;
+  --heading-32px-bold-size: 32px;
+  --heading-48px-semibold-size: 48px;
+
+  /* Colors */
+  --text2: #000;
+  --text: #fafafa;
+  --color-gray-100: rgba(0, 0, 0, 0.3);
+  --color-gray-200: rgba(0, 0, 0, 0.5);
+  --primary: #fff;
+  --secondary-2: #db4444;
+  --secondary: #f5f5f5;
+  --button1: #00ff66;
+  --hover-button: #e07575;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-68xl: 87px;
+  --gap-5xl: 24px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+  --gap-base: 16px;
+  --gap-7xs: 6px;
+  --gap-xs: 12px;
+  --gap-15xl: 34px;
+  --gap-129xl: 148px;
+  --gap-141xl: 160px;
+  --gap-29xl: 48px;
+  --gap-212xl: 231px;
+  --gap-8xs: 5px;
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-69xl: 88px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-base: 16px;
+  --padding-9xs: 4px;
+  --padding-3xs: 10px;
+  --padding-29xl: 48px;
+  --padding-6xs: 7px;
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-11xs-4: 1.4px;
+}

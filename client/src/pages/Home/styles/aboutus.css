@@ -1,0 +1,84 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+.aboutus {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    /* Initial background color */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+.aboutus:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    background-color: #e0f7fa;
+    /* Background color on hover */
+}
+
+.about-section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.about-section h1 {
+    color: #1565c0;
+    /* Dark blue color */
+    font-size: 32px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.about-section p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.team-section_1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.heading50 {
+    font-size: 24px;
+    color: #1565c0;
+    /* Dark blue color */
+    margin-bottom: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.team-member {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.team-member:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+
+.team-member h3 {
+    color: #1565c0;
+    /* Dark blue color */
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.team-member p {
+    font-size: 16px;
+    color: #666;
+}

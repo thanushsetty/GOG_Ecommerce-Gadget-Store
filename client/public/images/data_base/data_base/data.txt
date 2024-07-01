@@ -1,0 +1,225 @@
+mobile brands - 3(all)
+apple samsung oppo - 4
+laptops 
+hp, apple, asus
+headphones
+
+
+
+productcode varchar(255) NOT NULL unique,
+productname varchar(100) not null,
+description varchar(2000) not null,
+features varchar(2000) not null,
+imageURL varchar(1000) not null,
+imagethumbnail1 varchar(1000) not null,
+imagethumbnail2 varchar(1000) not null,
+imagethumbnail3 varchar(1000) not null,
+rating float not null,
+reviewed integer not null,
+favourite boolean not null,
+brand varchar(255) not null,
+category varchar(255) not null,
+mrp float not null,
+currentprice float not null,
+stock integer not null,
+sold integer not null,
+
+
+
+
+1 - Apple
+['ma10',
+ 'Apple iPhone 14 Pro (256 GB) - Deep Purple',
+ 'The iPhone 14 has 15.54 cm (6.1-inch) Super Retina XDR display featuring Always-On and ProMotion. Dynamic Island, a magical new way to interact with iPhone. 48MP Main camera for up to 4x greater resolution. Cinematic mode now in 4K Dolby Vision up to 30 fps. Action mode for smooth, steady, handheld videos',
+ '<li>An innovative 48MP camera for mind-blowing detail.</li>
+ <li>Crash detection, a vital safety feature designed to save lives.</li>
+ <li>Designed for durability with Ceramic Shield, tougher than any smartphone glass.</li>
+ <li>Dynamic island is a magical new way to interact with your iPhone.</li>
+ <li>Up to 4x the resolution for jaw-dropping cropping.</li>
+ <li>Long-lasting battery up to 29 hours on video playback.</li>',
+"images/apple/ma10.webp",
+"images/apple/ma11.webp",
+"images/apple/ma12.webp",
+"images/apple/ma13.webp",
+ 5, 308, false, 'iPhone', 'Mobiles',
+ 139900, 132999, 150, 73],
+
+3 - Apple
+['ma30',
+  'iPhone 12 64GB Black - Apple',
+  'The iPhone 12 display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 15.40 centimetres (6.06 inches) diagonally (actual viewable area is less).',
+  '<li>Super Retina XDR Display is more immersive giving awesome clarity defining every details</li>
+  <li>A14 Bionic Chip Processor lets you install and run as many apps as you like</li>
+  <li>MagSafe Wireless Charging support with up to 15 Watts</li>
+  <li>Brilliant Camera Combination includes dual rear camera and single front camera to capture your moments</li>',
+  "images/apple/ma30.webp",
+  "images/apple/ma31.webp",
+  "images/apple/ma32.webp",
+  4.8, 465, false, 'iPhone', 'Mobiles',
+  59900, 53899, 198, 78
+],
+
+4 - Apple
+[
+    'ma40',
+    'Apple iPhone 11 Pro Max (Space Grey, 64 GB)',
+    'The iPhone 11 Pro Max has 6-core CPU with 2 performance and 4 efficiency cores 2x2. 65 GHz Lightning high-performance cores and 4x1. 8 GHz Thunder efficient CPU cores. Fingerprint-resistant Oleophobic Coating, Support for Display of Multiple Languages and Characters Simultaneously',
+    '<li>Liquid Retina HD Display is more immersive giving awesome clarity defining every details</li>
+    <li>12 MP Ultra Wide and 12 MP Wide Cameras along with 12 MP front camera enables the device to take better photos</li>
+    <li>A13 Bionic Chip Processor lets you install and run as many apps as you like</li>
+    <li>iOS 14 operating system offers with smooth usage</li>',
+  "images/apple/ma40.webp",
+  "images/apple/ma41.webp",
+  "images/apple/ma42.webp",
+  "images/apple/ma43.webp",
+  4.65, 985, false, 'iPhone', 'Mobiles',
+  59900, 53899, 258, 108
+],
+
+
+1 - samsung
+[
+    'ms10',
+    'SAMSUNG Galaxy S22 5G (8GB RAM, 256GB, Green)',
+    'If you are looking for a mobile with the best processor in the segment and with the best camera setup then, the Samsung Galaxy S22 is a must-have. It comes with a 5G enabled Snapdragon 8 Gen 1 Processor which is one of the best processors in the segment. With this, you are getting a tremendous 3700 mAH battery which will give you back up of 1 easily in normal use and it also has 45W Super Fast Charging support which means it will charge your phone instantly. The Samsung Galaxy S22 is the best phone in this segment. With 15.39cm (6.1"), Dynamic AMOLED 2X displays give you precision and super quality. You cannot get better than this and at this sensible price.',
+    '<li>Snapdragon 8 Gen 1 Processor best processor in the segment</li>
+    <li>3700 mAh battery and with 45W Super Fast Charging support</li>
+    <li>128GB ROM to store all your data</li>
+    <li>15.39cm (6.1"), Dynamic AMOLED 2X displays with excellent picture quality</li>
+    <li>50+10+12MP Triple Rear Camera with 10MP Front Camera to gets best accounts and photos</li>',
+  "images/samsung/ms10.webp",
+  "images/samsung/ms11.webp",
+  "images/samsung/ms12.webp",
+  4.96, 1024, false, 'samsung', 'Mobiles',
+  76999, 62999, 645, 263
+],
+
+2 - samsung
+
+[
+    'ms20',
+    'SAMSUNG Galaxy Z Flip4 5G (8GB RAM, 256GB, Graphite)',
+    'Unfold the world with the new Samsung Galaxy Z Flip4 5G flip mobile. The Galaxy Z Flip4 is a full-sized, small smartphone that is foldable and exactly the ideal size to fit into your pocket when you're out and about. From the inside out, the Galaxy Z Flip4 is built to last. These are the sturdiest foldable devices ever with our proprietary Corning Gorilla Glass Victus. The hinges are protected by Armor Aluminum, the toughest aluminum frame available. The 17.01 cm (6.7 inches) display provides a lovely view because of the incredibly thin glass. A powerful 3700mAh (usual) battery works in tandem with the improved 4nm CPU to provide hours of use. The days of making plans around your phone are over. It is more durable than ever and keeps its flexibility for up to 200,000 cycles. With so much power, any call might end up becoming over time.',
+    '<li>17.03 cm (6.7”) Big Display ensures amazing visuals</li>
+    <li>4nm 64-bit Octa-Core Processor enables smooth responsiveness</li>
+    <li>12MP + 12MP Rear camera the world in your photos becomes more vibrant and dynamic</li>
+    <li>8GB RAM for smooth performance</li>',
+  "images/samsung/ms20.webp",
+  "images/samsung/ms21.webp",
+  "images/samsung/ms22.webp",
+  "images/samsung/ms23.webp",
+  "images/samsung/ms24.webp",
+  3.95, 824, false, 'samsung', 'Mobiles',
+  106999, 87999, 908, 136
+],
+
+3 - samsung
+
+[
+    'ms30',
+    'SAMSUNG Galaxy S20 FE 5G (8GB RAM, 128GB, Cloud Mint)',
+    'Buy Samsung Galaxy S20 FE 5G online, which flaunts an amazing display, brilliant camera, and powerful processor. Available in classic colours it flaunts a stylish design that is easy to hold and is crafted for perfect grip. Rated IP68 for water and dust resistance, this phone stands up to 150 cm of water for up to 30 minutes. The smartphone features a striking screen that gives you a 6.5” FHD Plus Super AMOLED Infinity-O Display. The resolution is 1080 x 2400 pixels. It enables you to view more and get an immersive experience. Now you can see and do more of what you love, without interruption. Twice as fast as many smartphone screens, the Super AMOLED display refreshes at a super smooth 120 Hz rate to keep action clear and touch response fast.',
+    '<li>Octa-Core Qualcomm Snapdragon 865 Processor lets you install and run multiple apps</li>
+    <li>128GB Storage lets you store your files with ease</li>
+    <li>4500 mAh Battery is perfect for continuous working</li>
+    <li>Triple Rear Camera with a single front camera to capture your moments</li>
+    <li>6.5” FHD Plus Super AMOLED Infinity-O Display is more immersive than ever</li>',
+  "images/samsung/ms30.webp",
+  "images/samsung/ms31.webp",
+  "images/samsung/ms32.webp",
+  4.87, 974, false, 'samsung', 'Mobiles',
+  74999, 41990, 734, 243
+],
+
+4 - samsung
+
+[
+    'ms40',
+    'SAMSUNG Galaxy S20 FE 5G (8GB RAM, 128GB, Cloud Mint)',
+    'Buy Samsung Galaxy S20 FE 5G online, which flaunts an amazing display, brilliant camera, and powerful processor. Available in classic colours it flaunts a stylish design that is easy to hold and is crafted for perfect grip. Rated IP68 for water and dust resistance, this phone stands up to 150 cm of water for up to 30 minutes. The smartphone features a striking screen that gives you a 6.5” FHD Plus Super AMOLED Infinity-O Display. The resolution is 1080 x 2400 pixels. It enables you to view more and get an immersive experience. Now you can see and do more of what you love, without interruption. Twice as fast as many smartphone screens, the Super AMOLED display refreshes at a super smooth 120 Hz rate to keep action clear and touch response fast.',
+    '<li>16.72cm (6.6") FHD+ 90Hz Smooth Display for best and superb clarity</li>
+    <li>Snapdragon Octa-Core processor for best and astounding performance</li>
+    <li>Storage 128GB to store data</li>
+    <li>50.0 MP + 5.0 MP + 2.0 MP + 2.0 MP Rear Camera | 8MP Front Camera to get best and amazing shots</li>
+    <li>5000 mAh Battery ensures backup of 2 days</li>',
+  "images/samsung/ms40.webp",
+  "images/samsung/ms41.webp",
+  "images/samsung/ms42.webp",
+  4.7, 875, false, 'samsung', 'Mobiles',
+  25490, 18999, 531, 275
+],
+
+1 - oppo
+
+[
+    'mo10',
+    'OPPO A16 (4GB RAM, 64GB, Royal Gold)',
+    'Upgrade your photography skills to a new level as the Oppo A16 features a brilliant combination of 13 MP (main camera), 2 MP, and 2 MP camera setup. The main camera takes outstanding shots with absolute clarity. You will be stunned to witness the absolute clarity. Capture your favourite moments and start recording amazing videos with this smartphone. See the difference with brilliantly clear selfies, made possible with an 8 MP selfie camera. It comes loaded with a lot of features that make it a perfect choice of yours. It also supports facial unlock and side fingerprint unlock.',
+    '<li>6.52-Inch HD+ Display ensures amazing visuals</li>
+    <li>Octa-Core MediaTek Helio G35 Processor enables smooth responsiveness</li>
+    <li>Storage Of 64GB for storing the files easily</li>
+    <li>Triple Rear Camera with 8 MP front camera takes amazing pictures</li>
+    <li>4GB RAM for smooth performance</li>',
+    "images/oppo/mo10.webp",
+  "images/oppo/mo11.webp",
+  "images/oppo/mo12.webp",
+  4.4, 734, false, 'oppo', 'Mobiles',
+  14999, 12990, 523, 332
+],
+
+2 - oppo
+
+[
+    'mo20',
+    'OPPO A57 (4GB RAM, 64GB, Glowing Black)',
+    'You can click stunning pictures and capture the tiniest of details with the OPPO A57. Images and films come to life on the enormous, colorful display. You can stay up all night reading or playing games thanks to AI Eye Comfort and blue light reduction designed to give a comfortable all-day viewing experience. Depending on the person's face, make quick and easy cosmetic adjustments. Take advantage of the convenience of always having a personal touch-up artist at your disposal. You can make the most of every evening selfie thanks to the innovative in-screen illumination, which functions as a built-in photo studio. With a 2MP depth camera, you can get the ideal mix of focus and blur in each picture while keeping your subject in the foreground. Don't forget to acquire OPPO A57 which has an exceptional camera to document your amazing or humorous moments.If you need exceptional battery life, switch to OPPO A57 online, which includes a 5000mAh high-capacity battery.',
+    '<li>13MP + 2MP Rear Camera the world in your photos become more vibrant and dynamic</li>
+    <li>MediaTek Helio G35 Processor enables smooth responsiveness</li>
+    <li>16.66cm (6.56”) a-Si display ensures amazing visuals</li>
+    <li>4GB RAM for smooth performance</li>
+    <li>Storage of 64GB for storing your important files easily</li>',
+    "images/oppo/mo20.webp",
+  "images/oppo/mo21.webp",
+  "images/oppo/mo22.webp",
+  4.6, 422, false, 'oppo', 'Mobiles',
+  16990, 13999, 768, 435
+],
+
+3 - oppo
+
+[
+    'mo30',
+    'OPPO A76 (6GB RAM, 128GB, Glowing Black)',
+    'If you are searching for an allrounder phone with a piece of the astonishing parts stacked in it then the Oppo A76 is for you. It accompanies a Qualcomm Snapdragon 680 Processor in view of the Android 11 working framework which is probably the best processor in the fragment. With this, you are getting an enormous 5000 mAh Battery which will give you a battery reinforcement of very nearly 1 day which is very fair alongside this you are getting a quick charging that will charge your phone immediately. The Oppo A76 is the best phone in this section. With 16.66 cm (6.56") HD+ Display gives you the best and super quality.',
+    '<li>16.66cm (6.56") HD+ Display for best clarity and best details</li>
+    <li>13MP + 2MP Rear camera| 8MP Front Camera to get best shots</li>
+    <li>Qualcomm Snapdragon 680 Processor for better and smooth performance</li>
+    <li>Storage 128GB to store all your own personal data</li>
+    <li>5000mAh Battery with 33W SuperVooC fast charging</li>',
+    "images/oppo/mo30.webp",
+  "images/oppo/mo31.webp",
+  "images/oppo/mo32.webp",
+  5, 125, false, 'oppo', 'Mobiles',
+  18499, 16490, 987, 654
+],
+
+4 - oppo
+
+[
+    'mo40',
+    'OPPO A16K (3GB RAM, 32GB, White)',
+    'Get ready to witness the ultimate speed and performance when you buy Oppo A16K online, which comes loaded with various specifications. With 3GB RAM, you can install more applications and run them all together without disturbing the speed of the phone. It comes with sensors like geomagnetic sensor, proximity sensor, light sensor, accelerometer, gravity sensor. It also supports face unlock. The smartphone features a striking screen that gives you a 16.55 cm HD Plus display. Life’s better when you can video chat or watch shows on a bigger screen. HD+ Eye-care will protect your eyes on this giant screen. The resolution is 1600 x 720 pixels. A big 4230 mAh, all-day lithium polymer battery that keeps your phone going without constant recharging, plus a reliable USB port that undergoes 10000 times USB Port Plug-In Tests. Don’t worry about overcharging, optimized night charging will protect you. Our next-generation Natural Skin Retouching technology will enhance your features and complexion, ensuring you look naturally charming, without missing any details. You’ll look good anywhere and everywhere, all the time',
+    '<li>3GB RAM ensures efficient performance</li>
+    <li>ColorOS 11.1 Based on Android 11 ensures smooth usage</li>
+    <li>32GB Storage helps you to store your files easily</li>
+    <li>Octa-Core MediaTek Helio G35 Processor lets you install and run multiple apps</li>
+    <li>IPX4 splash waterproof</li>',
+    "images/oppo/mo40.webp",
+  "images/oppo/mo41.webp",
+  "images/oppo/mo42.webp",
+  4.9, 762, false, 'oppo', 'Mobiles',
+  13990, 8999, 787, 654
+],
+
+
+HEADPHONES

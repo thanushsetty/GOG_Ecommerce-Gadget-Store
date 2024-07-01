@@ -1,0 +1,55 @@
+
+.brand-single-item {
+    position: relative;
+    z-index: 0;
+    display: flex;
+    padding: 1.5vw;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid #f5f6f6;
+    border-radius: 10px;
+    background-color: #f5f6f6;
+    transition: all 200ms ease;
+}
+
+.brand-single-item:hover{
+    border: 1px solid #245537;
+    transition: transform 0.2s ease-in-out;
+}
+
+.brand-thumbnail {
+    position: relative;
+    margin-right: 1.4vw;
+    /* overflow: hidden; */
+    transition: transform 0.2s ease-in-out;
+}
+
+.brand-image{
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+.brand-image:hover{
+    transform: scale(1.2);
+}
+
+img{
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.brand-title{
+    margin-top: 0;
+    margin-bottom: 2vh;
+    font-family: Inter, sans-serif;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.delivery-time{
+    margin-bottom: 0;
+    font-family: Inter, sans-serif;
+    font-size: 0.9em;
+    line-height: 0.9em;
+    font-weight: 500;
+}

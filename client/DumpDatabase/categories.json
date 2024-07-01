@@ -1,0 +1,51 @@
+[
+  {
+    "_id": {
+      "$oid": "641055d82b79b731a80f92c5"
+    },
+    "title": "Mobiles",
+    "slug": "Mobiles",
+    "brand": "apple"
+  },
+  {
+    "_id": {
+      "$oid": "641055f82b79b731a80f92c6"
+    },
+    "title": "Laptops",
+    "slug": "Laptops",
+    "brand": "Oppo"
+  },
+  {
+    "_id": {
+      "$oid": "6410560c2b79b731a80f92c7"
+    },
+    "title": "Wearables",
+    "slug": "Wearables",
+    "brand": "Samsung"
+  },
+  {
+    "_id": {
+      "$oid": "641056312b79b731a80f92c8"
+    },
+    "title": "Audio Store",
+    "slug": "Audio Store",
+    "brand": "Boat"
+  },
+  {
+    "_id": {
+      "$oid": "641056f32b79b731a80f92ca"
+    },
+    "title": "Smart Gadgets",
+    "slug": "Smart Gadgets",
+    "brand": "Asus"
+  },
+  {
+    "_id": {
+      "$oid": "6443718b867e4ad200ca2c72"
+    },
+    "title": "Speakers",
+    "slug": "Speakers",
+    "brand": "Sony"
+  }
+  
+]

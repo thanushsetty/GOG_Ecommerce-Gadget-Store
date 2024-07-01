@@ -1,0 +1,54 @@
+1)
+
+['la10',
+ 'Apple MacBook Pro',
+ 'M2 Max, 16.2 inch, 32GB, 1TB, macOS, Space Grey',
+"images/apple/la10.avif",
+"images/apple/la11.avif",
+"images/apple/la12.avif",
+"images/apple/la13.avif",
+ 5, 450, false, 'MacBook', 'Laptops',
+ 369999, 349900, 250, 112],
+Features:
+<li>Apple M2 Max Processor <li>
+<li>16-inch Liquid Retina XDR Display<li>
+<li>1TB SSD<li>
+<li>32GB RAM<li>
+
+2)
+
+['la20',
+ 'Apple MacBook Pro 14 2021',
+ 'M1, 14.2 inch, 16GB, 1TB, macOS Monterey, Space Grey',
+"images/apple/la20.avif",
+"images/apple/la21.avif",
+"images/apple/la22.avif",
+"images/apple/la23.avif",
+ 4.5, 400, false, 'MacBook', 'Laptops',
+ 240999, 213894, 300, 211],
+Features:
+<li>32GB RAM</li>
+<li>Advanced Thermal Systems move 50% more air even at lower fan speeds</li>
+<li>Camera Delivers two times better low-light performance</li>
+<li>Ferocious Performance with game changing battery life</li>
+<li>Compatible with Apple MacBook 14 inches</li>
+
+3)
+
+['la30',
+ 'Apple MacBook Air 2020',
+ 'M1, 13.3 Inch, 8GB, 256GB, macOS Big Sur, Space Grey',
+"images/apple/la30.avif",
+"images/apple/la31.avif",
+"images/apple/la32.avif",
+"images/apple/la33.avif",
+ 4, 350, false, 'MacBook', 'Laptops',
+ 99990, 84,990, 350, 220],
+Features:
+
+<li>13.3-inch</li>
+<li>256GB SSD</li>
+<li>8GB RAM</li>
+<li>Apple M1 Chip Processor</li>
+
+

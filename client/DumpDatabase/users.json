@@ -1,0 +1,410 @@
+[{
+  "_id": {
+    "$oid": "64479b121af4f362280939b1"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "name": "Hemanth",
+  "email": "hemanth.a21@iiits.in",
+  "password": "$2a$10$6KqTUO1zT9YznGrSsGgAWOUJPyiwjieOwb5DezVoryDCphUB80XKi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682414354694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682414354694"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644836e39449c50ad0177853"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "name": "Thanush Setty",
+  "email": "thanush.s21@iiits.in",
+  "password": "$2a$10$BZ.IM/mw9yFmyhsLiaaj8uTuOyxU.0lcWoqsNMGywYDiNmOWT0Wba",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682454244140"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682454263836"
+    }
+  },
+  "__v": 0,
+  "dob": "02/09/2003",
+  "gender": "Male",
+  "location": "Sricity",
+  "mobileNumber": {
+    "$numberLong": "7780419939"
+  }
+},{
+  "_id": {
+    "$oid": "64f9d6de5cc0c09704809ff2"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "name": "Hemanth",
+  "email": "sialdj.123@gmail.com",
+  "password": "$2a$10$fw./zW0UQeOYLACbNTtzW.GZExR/r0Zc1BqHctL51NPtCgV7FT.fq",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694095070516"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694098998872"
+    }
+  },
+  "__v": 0,
+  "dob": "21/09/2003",
+  "gender": "Male",
+  "location": "Sricity",
+  "mobileNumber": {
+    "$numberLong": "9988776655"
+  }
+},{
+  "_id": {
+    "$oid": "64faf78e43bcd40f2c8490c8"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "name": "Hemanth",
+  "email": "hemanth1@gmail.com",
+  "password": "$2a$10$uUvfhgQf7CgvkRfZjXuCCuddrB5a4lmGYGZYQXV27WVFcIEJxd8g6",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694168974352"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694408032845"
+    }
+  },
+  "__v": 0,
+  "dob": "21/09/2003",
+  "gender": "Male",
+  "location": "Sricity",
+  "mobileNumber": {
+    "$numberLong": "9988776655"
+  }
+},{
+  "_id": {
+    "$oid": "64fc8614c160ee498848aa77"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "Hemanth",
+  "email": "hemanth2@gmail.com",
+  "password": "$2a$10$0XO7FIesLNl2hJQdm.TLX.GNfrFdTCVYKWhKNwrmZ1MItuqdd0iA2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694270997162"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694270997162"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fd84e648d6399d94899346"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "name": "Thanush",
+  "email": "st293@gmail.com",
+  "password": "$2a$10$wMJEnZ6bs/P9qjdquqieoeAb/VIJXj40VslP8Tuu/9Q3vJj3Y2u7e",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694336230869"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694336245931"
+    }
+  },
+  "__v": 0,
+  "dob": "02/09/2003",
+  "gender": "MALE",
+  "location": "Sricity",
+  "mobileNumber": {
+    "$numberLong": "7780419339"
+  }
+},{
+  "_id": {
+    "$oid": "64fdcd4984659a878404bddc"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": true,
+  "name": "GOG Admin",
+  "email": "admin.gog@gmail.com",
+  "password": "$2a$10$.2kjF4ao9kcTRLn6MKJzp.FbQD/8vzWbhJQxqzgiDe84qx/8gMTW2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694354761094"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694354761094"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fe9b4043c82e751027fade"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "john",
+  "email": "john.123@gmail.com",
+  "password": "$2a$10$l6C5SlXwYTzG9GD2aDTo2eDCNovbI1.tT5b2G/TYMxGglLWjXf1B2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694407488402"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694407488402"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "praveen kumar",
+  "email": "praveenrocksrocks69@gmail.com",
+  "password": "$2a$10$H9RH4H/qNVXzwEeC3K0TP.p4mnAWlP36GGxCsscu1oNMIduYIOFRG",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694411720220"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694411720220"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64febcc741f1416e7ca1de92"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "werf",
+  "email": "john.1234@gmail.com",
+  "password": "$2a$10$/LpZHZIR9QUU0DVuKjogAujd90Y.i3g5iTkXmPCN.12C4aTdiLisa",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694416072153"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694416072153"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff57fe3a04969bf0320562"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "THANUSH SETTY",
+  "email": "gog@gmail.com",
+  "password": "$2a$10$TQwCxPr5hLdFgfJmbdHD5edrdbr86Wa6OVHSlphCFoXsNZNfrOJ72",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694455807272"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694455893700"
+    }
+  },
+  "__v": 0,
+  "dob": "02/09/2003",
+  "gender": "Male",
+  "location": "Vijayawada",
+  "mobileNumber": {
+    "$numberLong": "7780419339"
+  }
+},{
+  "_id": {
+    "$oid": "64ff58f03a04969bf03205c1"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "THANUSH SETTY",
+  "email": "thanushsetty293@gmail.com",
+  "password": "$2a$10$x5XzbysOTpQBErnleAtNTey7whYAkvHcWclvoOhWy7FMe6BPohNfW",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694456048832"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694461454697"
+    }
+  },
+  "__v": 0,
+  "dob": "02/09/2003",
+  "gender": "Male",
+  "location": "Vijayawada",
+  "mobileNumber": {
+    "$numberLong": "7780419339"
+  }
+},{
+  "_id": {
+    "$oid": "64ff66fdc0341daf0c5dcfb1"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "vinay",
+  "email": "vinay@gmail.com",
+  "password": "$2a$10$cqzPgEkjMBmDmoXJ61yJP.1VnyM63bDLkFrN011pQD/PlXT9QY1mK",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694459645341"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694459645341"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff6762c0341daf0c5dcfca"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "vinay",
+  "email": "vinay1@gmail.com",
+  "password": "$2a$10$0ojwgF4b3lzvORO5255Yj.jpAmPkHekdCSA80LdY/dmpTPcQgs93m",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694459746623"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694459746623"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fff07ca967d765f0e400d2"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "Hemanth",
+  "email": "hemanth11@gmail.com",
+  "password": "$2a$10$7rMkuo4ZgXuckkFmMQd67uDrF549SIiPkNjdQeJZkrAawtfaoOb56",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694494844424"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694494844424"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fff1e7a967d765f0e400f9"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "Akhil",
+  "email": "akhil@gmail.com",
+  "password": "$2a$10$yZ95Lzm/NF11qZCOxWZVaOcWVBTIxvUg3oCBzFg4ZBJHf7xz03S1i",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694495207540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694495207540"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65005161a80f9ea28ca3bdee"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "Test",
+  "email": "test1@gmail.com",
+  "password": "$2a$10$k7l6Zj4qfnENCV/bvKbhoOt5dw3Akq01KaBm4h7t.RQdbFi2cMc/m",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694519650267"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694519650267"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "653b3aa2d9e8d019ec6efec4"
+  },
+  "isActive": false,
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "hemanth",
+  "email": "hemanth4@gmail.com",
+  "password": "$2a$10$aT5UB5dxD5jIIfUo2pX4auLgwN8HJfWgg2drLyagmVjkWB.fJQUN.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1698380451233"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1698380451233"
+    }
+  },
+  "__v": 0
+}]

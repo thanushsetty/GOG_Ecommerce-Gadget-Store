@@ -1,0 +1,109 @@
+.orders-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.orders-content{
+    margin-left: 17vw;
+}
+.marginn{
+    margin-left: 15vw;
+}
+.search-margin{
+    margin-left: 2vw;
+}
+.message-reply-container{
+    margin-top: 3rem;
+    margin-left: 20rem;
+}
+.message-reply-container form{
+    display: flex;
+    flex-direction: column;
+}
+.message-reply{
+    display: flex;
+    flex-direction: column;
+}
+.message-reply label{
+    color: #7d8da2;
+    font-size: 1.1rem;
+    font-weight: 800;
+}
+.message-reply textarea{
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    width: 20vw;
+    height: 15vh;
+}
+.message-form button{
+    width: 5vw;
+    height: 4vh;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 700;
+    background-color: #80c5c7;
+    border: none;
+    margin-left: 7rem;
+}
+
+.orders-table {
+    width: 20vw;
+    border-collapse: collapse;
+}
+
+/* .orders-table th, */
+.orders-table td {
+    /* border: 1px solid #ddd; */
+    border-bottom: 0.5px solid #edf0f3;
+    padding: 10px;
+    text-align: center;
+    max-width: 22vw !important;
+    border-width: thin;
+}
+
+.orders-table th {
+    border-radius: 0;
+    color: #fff;
+    font-weight: 400;
+    background-color: #80c5c7;
+}
+
+.product-image {
+    width: 80%;
+    height: 1005;
+    object-fit: cover;
+}
+
+.delete-button,
+.reply-button {
+    background-color: #ff5555;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.delete-button:hover,
+.reply-button:hover {
+    background-color: #59ab5e;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.search-bar input {
+    width: 30vw;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.search-bar input:focus {
+    outline: none;
+    border-color: #007bff;
+}

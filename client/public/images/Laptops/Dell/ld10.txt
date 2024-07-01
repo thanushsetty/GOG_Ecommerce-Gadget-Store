@@ -1,0 +1,86 @@
+1)
+
+['ld10',
+ 'Alienware x14 Gaming Laptop',
+ 'Display: 35.56 cms (14 inches), FHD LED-Backlit Memory: 32GB LPDDR5 RAM, 1TB SSD ROM Processor: Intel Core i7 12th Generation OS: Windows 11 Home Graphics: NVIDIA GeForce RTX 3060 Included Software: MS Office Home & Student 2021 Warranty: 1 Year Onsite',
+"images/dell/ld10.avif",
+"images/dell/ld11.avif",
+"images/dell/ld12.avif",
+"images/dell/ld13.avif",
+ 4.5, 220, false, 'alienware x14', 'Laptops',
+ 219499, 210399, 250, 112],
+Features:
+<li>1TB SSD to store all your files</li>
+<li>Windows 11 operating system for user-friendly performance</li>
+<li>14.0-Inch Full HD Display to get the ultimate visuals</li>
+<li>32 GB LPDDR5 4800 Mhz RAM for smooth using experience</li>
+<li>12th Generation Intel Core i7-12700H processor for fast performance</li>
+
+2)
+
+['ld20',
+ 'Dell Inspiron G15-5520',
+ ' Intel Core i7 12th Gen (15.6 inch, 16GB, 512GB, Windows 11, MS Office 2021, NVIDIA GeForce RTX 3060 Graphics, FHD LED-Backlit Display, Dark Shadow Grey, D560737WIN9B)',
+"images/dell/ld20.avif",
+"images/dell/ld21.avif",
+"images/dell/ld22.avif",
+"images/dell/ld23.avif",
+ 4, 250, false, 'Dell Inspiron', 'Laptops',
+ 260900, 240099, 200, 110],
+Features:
+<li>39.62cm (15.6”) Full HD Display </li>
+<li>512GB SSD </li>
+<li>Windows 11 </li>
+<li>16GB DDR5 4800 MHz RAM </li>
+<li>12th Gen Intel Core i7-12700H</li>
+
+3)
+
+['ld30',
+ ' Dell Inspiron G7 7500 0',
+ 'Intel Core i7 10th Gen (15.6 inch, 16GB, 1TB, Windows 10, MS Office 2019, NVIDIA GeForce RTX 2060 Graphics, FHD LED-Backlit Display, Black, D560232WIN9B)',
+"images/dell/ld30.avif",
+"images/dell/ld31.avif",
+"images/dell/ld32.avif",
+"images/dell/ld33.avif",
+ 3.5, 175, false, 'Dell Inspiron', 'Laptops',
+ 160699, 138,294, 230, 150],
+Features:
+<li>NVIDIA RTX 2060, 6GB GDDR6 Graphics enables you to play fun games with ease</li>
+<li>1TB SSD helps you to store all your files, videos, pictures, games, etc</li>
+<li>16GB DDR4 RAM Performance empowers you to do multitasking without any fear of lagging and works smoothly</li>
+<li>15.6-inch FHD Display enables you to view every content with perfect clarity</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

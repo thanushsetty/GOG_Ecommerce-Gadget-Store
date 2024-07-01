@@ -1,0 +1,10 @@
+{
+  "name": "GOG",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "cd server && npm install && npm start",
+    "client": "cd client && npm install && npm run dev",
+    "build": "npm run server && npm run client:build",
+    "client:build": "cd client && npm run build"
+  }
+}

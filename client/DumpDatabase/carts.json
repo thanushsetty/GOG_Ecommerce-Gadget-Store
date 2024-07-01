@@ -1,0 +1,625 @@
+[{
+  "_id": {
+    "$oid": "6443e7607e134adfec9672c2"
+  },
+  "totalQty": 9,
+  "totalCost": 606437,
+  "items": [
+    {
+      "qty": 4,
+      "price": 551960,
+      "_id": {
+        "$oid": "6443e7607e134adfec9672c4"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "productCode": "ma10"
+    },
+    {
+      "qty": 2,
+      "price": 25980,
+      "_id": {
+        "$oid": "64440c869017684e1c5f75f1"
+      },
+      "productId": {
+        "$oid": "6444084ac2c4ccd69b5154d6"
+      },
+      "title": "Oppo A16 (4GB RAM, 64GB, Royal Gold)",
+      "imagePath": "images/mobiles/oppo/mo10.webp",
+      "productCode": "mo10"
+    },
+    {
+      "qty": 3,
+      "price": 28497,
+      "_id": {
+        "$oid": "64440e8aeaa5300cdc82bd9c"
+      },
+      "productId": {
+        "$oid": "64440abac2c4ccd69b5154d7"
+      },
+      "title": "Oppo A16K (4GB RAM, 64GB, White)",
+      "imagePath": "images/mobiles/oppo/mo40.webp",
+      "productCode": "mo40"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682171744661"
+    }
+  },
+  "user": {
+    "$oid": "6443e7247e134adfec9672b2"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "644442ec7a09741ec0b4403c"
+  },
+  "totalQty": 13,
+  "totalCost": 963255,
+  "items": [
+    {
+      "qty": 1,
+      "price": 98000,
+      "_id": {
+        "$oid": "644442ec7a09741ec0b4403e"
+      },
+      "productId": {
+        "$oid": "6444252a867e4ad200ca2c89"
+      },
+      "title": "ASUS TUF Gaming A15 FA506QM-HN124W AMD Ryzen 9'",
+      "productCode": "las20"
+    },
+    {
+      "qty": 1,
+      "price": 1899,
+      "_id": {
+        "$oid": "644443e3dda4702da001fec2"
+      },
+      "productId": {
+        "$oid": "6443e3c848a595817735a79f"
+      },
+      "title": "boAt Rockerz 558 Bluetooth Headset with Mic",
+      "productCode": "asb20"
+    },
+    {
+      "qty": 4,
+      "price": 72000,
+      "_id": {
+        "$oid": "644444fcdda4702da001fede"
+      },
+      "productId": {
+        "$oid": "64440e83c2c4ccd69b5154df"
+      },
+      "title": "Apple Airpods (3rd Generation)with Lightning Charging Case",
+      "productCode": "asa10"
+    },
+    {
+      "qty": 2,
+      "price": 2598,
+      "_id": {
+        "$oid": "64444e9330c52e31880679eb"
+      },
+      "productId": {
+        "$oid": "64441126c2c4ccd69b5154e0"
+      },
+      "title": "boAt Airdopes 113 Wireless Gaming Earbuds",
+      "productCode": "asb10"
+    },
+    {
+      "qty": 1,
+      "price": 84990,
+      "_id": {
+        "$oid": "64450b3b9503d736e82ae0e7"
+      },
+      "productId": {
+        "$oid": "6444cc85456627138f0e3c7d"
+      },
+      "title": "Apple MacBook Air 2020'",
+      "productCode": "la30"
+    },
+    {
+      "qty": 2,
+      "price": 427788,
+      "_id": {
+        "$oid": "64450c024467dd3934d099d4"
+      },
+      "productId": {
+        "$oid": "6444cb1e456627138f0e3c7c"
+      },
+      "title": "Apple MacBook Pro 14 2021'",
+      "productCode": "la20"
+    },
+    {
+      "qty": 2,
+      "price": 275980,
+      "_id": {
+        "$oid": "6445192675b7c03a80a3b315"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682195180431"
+    }
+  },
+  "user": {
+    "$oid": "644426b2edd7046ff8773c24"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "6444d3183186423020387b9a"
+  },
+  "totalQty": 4,
+  "totalCost": 165869,
+  "items": [
+    {
+      "qty": 1,
+      "price": 137990,
+      "_id": {
+        "$oid": "6444d3183186423020387b9c"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    },
+    {
+      "qty": 1,
+      "price": 1899,
+      "_id": {
+        "$oid": "6444d3b1b274c245482b825f"
+      },
+      "productId": {
+        "$oid": "6443e3c848a595817735a79f"
+      },
+      "title": "boAt Rockerz 558 Bluetooth Headset with Mic",
+      "imagePath": "images/earphones/boat/asb20.webp",
+      "productCode": "asb20"
+    },
+    {
+      "qty": 2,
+      "price": 25980,
+      "_id": {
+        "$oid": "6444e1764b88a145e4142c73"
+      },
+      "productId": {
+        "$oid": "6444084ac2c4ccd69b5154d6"
+      },
+      "title": "Oppo A16 (4GB RAM, 64GB, Royal Gold)",
+      "imagePath": "images/mobiles/oppo/mo10.webp",
+      "productCode": "mo10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682232088670"
+    }
+  },
+  "user": {
+    "$oid": "6444d165536a4f5058aac0b4"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "644515c43be5891f44db297f"
+  },
+  "totalQty": 3,
+  "totalCost": 165663,
+  "items": [
+    {
+      "qty": 1,
+      "price": 137990,
+      "_id": {
+        "$oid": "644515c43be5891f44db2981"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "productCode": "ma10"
+    },
+    {
+      "qty": 1,
+      "price": 1899,
+      "_id": {
+        "$oid": "644517e02153bb0c14058c04"
+      },
+      "productId": {
+        "$oid": "6443e3c848a595817735a79f"
+      },
+      "title": "boAt Rockerz 558 Bluetooth Headset with Mic",
+      "productCode": "asb20"
+    },
+    {
+      "qty": 1,
+      "price": 25774,
+      "_id": {
+        "$oid": "64451f19f888534190c0fcd5"
+      },
+      "productId": {
+        "$oid": "6444c3ab456627138f0e3c76"
+      },
+      "title": "Sony WH-1000XM5 Wireless active noise cancelling headphones",
+      "imagePath": "images/earphones/sony/ass10.avif",
+      "productCode": "ass10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682249156306"
+    }
+  },
+  "user": {
+    "$oid": "6445154a8956254f5c3c2f5d"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "64451bed019b782de823675f"
+  },
+  "totalQty": 2,
+  "totalCost": 275980,
+  "items": [
+    {
+      "qty": 2,
+      "price": 275980,
+      "_id": {
+        "$oid": "64451bee019b782de8236761"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682250733882"
+    }
+  },
+  "user": {
+    "$oid": "64451b98019b782de8236734"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64468d3fd89ec048a8b1db9d"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "qty": 1,
+      "price": 137990,
+      "_id": {
+        "$oid": "64468d3fd89ec048a8b1db9f"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682345279339"
+    }
+  },
+  "user": {
+    "$oid": "6444c0386efdf933184ef948"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64468fdfc41b8f2bd87449fa"
+  },
+  "totalQty": 3,
+  "totalCost": 413970,
+  "items": [
+    {
+      "qty": 3,
+      "price": 413970,
+      "_id": {
+        "$oid": "64468fdfc41b8f2bd87449fc"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682345951388"
+    }
+  },
+  "user": {
+    "$oid": "64468d728ca9ba5c2c8d0929"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6448352a630da40ad07b124b"
+  },
+  "totalQty": 1,
+  "totalCost": 18000,
+  "items": [
+    {
+      "qty": 1,
+      "price": 18000,
+      "_id": {
+        "$oid": "6448352a630da40ad07b124d"
+      },
+      "productId": {
+        "$oid": "64440e83c2c4ccd69b5154df"
+      },
+      "title": "Apple Airpods (3rd Generation)with Lightning Charging Case",
+      "imagePath": "images/earphones/apple/asa10.webp",
+      "productCode": "asa10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682453802503"
+    }
+  },
+  "user": {
+    "$oid": "644834cf630da40ad07b1227"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f9d5c45cc0c09704809f9c"
+  },
+  "totalQty": 3,
+  "totalCost": 307979,
+  "items": [
+    {
+      "qty": 2,
+      "price": 275980,
+      "_id": {
+        "$oid": "64f9d5c45cc0c09704809f9e"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    },
+    {
+      "qty": 1,
+      "price": 31999,
+      "_id": {
+        "$oid": "64f9d5e25cc0c09704809fba"
+      },
+      "productId": {
+        "$oid": "6444d21b456627138f0e3c80"
+      },
+      "title": "SAMSUNG Galaxy Watch5 Smartwatch with Activity Tracker (40mm Super AMOLED Display, Water Resistant, Purple Strap)",
+      "imagePath": "images/wearables/samsung/ws10.avif",
+      "productCode": "ws10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694094788287"
+    }
+  },
+  "user": {
+    "$oid": "64f9d1daaa39b03d70f277a1"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "64f9fe2c0e16e28c08f409a8"
+  },
+  "totalQty": 5,
+  "totalCost": 544577,
+  "items": [
+    {
+      "qty": 1,
+      "price": 17490,
+      "_id": {
+        "$oid": "64f9fe2c0e16e28c08f409aa"
+      },
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    },
+    {
+      "qty": 1,
+      "price": 1299,
+      "_id": {
+        "$oid": "64f9fe2e0e16e28c08f409b2"
+      },
+      "productId": {
+        "$oid": "64441126c2c4ccd69b5154e0"
+      },
+      "title": "boAt Airdopes 113 Wireless Gaming Earbuds",
+      "imagePath": "images/earphones/boat/asb10.webp",
+      "productCode": "asb10"
+    },
+    {
+      "qty": 2,
+      "price": 427788,
+      "_id": {
+        "$oid": "64fadc2b59e8ac2298385a4c"
+      },
+      "productId": {
+        "$oid": "6444cb1e456627138f0e3c7c"
+      },
+      "title": "Apple MacBook Pro 14 2021'",
+      "imagePath": "images/Laptops/Apple/la20.avif",
+      "productCode": "la20"
+    },
+    {
+      "qty": 1,
+      "price": 98000,
+      "_id": {
+        "$oid": "64fadc3f59e8ac2298385a61"
+      },
+      "productId": {
+        "$oid": "6444252a867e4ad200ca2c89"
+      },
+      "title": "ASUS TUF Gaming A15 FA506QM-HN124W AMD Ryzen 9'",
+      "imagePath": "images/Laptops/Asus/las20.avif",
+      "productCode": "las20"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694105132419"
+    }
+  },
+  "user": {
+    "$oid": "64f9d6de5cc0c09704809ff2"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "64fdaf6264c1abd410914714"
+  },
+  "totalQty": 10,
+  "totalCost": 464975,
+  "items": [
+    {
+      "qty": 2,
+      "price": 25980,
+      "_id": {
+        "$oid": "64fdaf6464c1abd41091471e"
+      },
+      "productId": {
+        "$oid": "6444084ac2c4ccd69b5154d6"
+      },
+      "title": "Oppo A16 (4GB RAM, 64GB, Royal Gold)",
+      "imagePath": "images/mobiles/oppo/mo10.webp",
+      "productCode": "mo10"
+    },
+    {
+      "qty": 3,
+      "price": 54000,
+      "_id": {
+        "$oid": "64fdaf6e64c1abd410914737"
+      },
+      "productId": {
+        "$oid": "64440e83c2c4ccd69b5154df"
+      },
+      "title": "Apple Airpods (3rd Generation)with Lightning Charging Case",
+      "imagePath": "images/earphones/apple/asa10.webp",
+      "productCode": "asa10"
+    },
+    {
+      "qty": 5,
+      "price": 384995,
+      "_id": {
+        "$oid": "64fdaf7064c1abd41091474d"
+      },
+      "productId": {
+        "$oid": "64440c65c2c4ccd69b5154d8"
+      },
+      "title": "SAMSUNG Galaxy S22 5G (8GB RAM, 256GB, Green)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "ms10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694347106730"
+    }
+  },
+  "user": {
+    "$oid": "64fd84e648d6399d94899346"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "64fea80ef96cf6368c1a88fc"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "qty": 1,
+      "price": 137990,
+      "_id": {
+        "$oid": "64fea80ff96cf6368c1a88fe"
+      },
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694410766986"
+    }
+  },
+  "user": {
+    "$oid": "64fc93e445dd4a44acdd1be0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6500034cb32709d3709ab9c7"
+  },
+  "totalQty": 2,
+  "totalCost": 14298,
+  "items": [
+    {
+      "qty": 1,
+      "price": 1299,
+      "_id": {
+        "$oid": "6500034cb32709d3709ab9c9"
+      },
+      "productId": {
+        "$oid": "64441126c2c4ccd69b5154e0"
+      },
+      "title": "boAt Airdopes 113 Wireless Gaming Earbuds",
+      "imagePath": "images/earphones/boat/asb10.webp",
+      "productCode": "asb10"
+    },
+    {
+      "qty": 1,
+      "price": 12999,
+      "_id": {
+        "$oid": "6503421fc779d73b281e1202"
+      },
+      "productId": {
+        "$oid": "6444d398456627138f0e3c83"
+      },
+      "title": "Garmin vívosmart 5 Fitness Tracker (Bluetooth) (5ATM Water Resistant, 010-02645-20, Black, Silicone Strap)",
+      "imagePath": "images/wearables/vivo/wv10.avif",
+      "productCode": "wv10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694499660653"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 1
+}]

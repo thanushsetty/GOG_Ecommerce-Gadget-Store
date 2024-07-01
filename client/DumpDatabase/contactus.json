@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "64fff708b32709d3709ab94c"
+  },
+  "name": "THANUSH SETTY",
+  "email": "thanushsetty293@gmail.com",
+  "subject": "Reagrding feautered products",
+  "phone": {
+    "$numberLong": "7780419339"
+  },
+  "message": "qwertyqwertyqwertywertywertywertyuwertywertyu",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694496520890"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1694496520890"
+    }
+  },
+  "__v": 0
+}]

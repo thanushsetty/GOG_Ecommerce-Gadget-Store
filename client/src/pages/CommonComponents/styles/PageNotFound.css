@@ -1,0 +1,82 @@
+#notfound {
+    --body-font: 'Montserrat', sans-serif;
+    margin: 0;
+    font-family: var(--body-font);
+    background-color: var(--third-color);
+    --first-color: #c97d20;
+    --second-color: #5f9ea0;
+    --third-color: white;
+    position: relative;
+    height: 100vh;
+}
+
+#notfound .notfound {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    max-width: 767px;
+    width: 100%;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.notfound .notfound-404 {
+    position: relative;
+    height: 180px;
+    margin-bottom: 20px;
+    z-index: -1;
+}
+
+.notfound .notfound-404 h1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 224px;
+    font-weight: 900;
+    margin: 0 0 0 -12px;
+    color: var(--second-color);
+    text-transform: uppercase;
+    text-shadow: -1px -1px 0px var(--second-color), 1px 1px 0px var(--first-color);
+    letter-spacing: -20px;
+}
+
+.notfound .notfound-404 h2 {
+    position: absolute;
+    left: 0;
+    top: 110px;
+    right: 0;
+    font-size: 42px;
+    font-weight: 700;
+    color: var(--first-color);
+    text-transform: uppercase;
+    text-shadow: -1px -1px 0px var(--first-color);
+    letter-spacing: 13px;
+    margin: 0;
+}
+
+.notfound a {
+    display: inline-block;
+    text-transform: uppercase;
+    color: var(--first-color);
+    text-decoration: none;
+    border: 5px solid;
+    border-radius: 30px;
+    background: transparent;
+    padding: 18px 50px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 60px;
+    -webkit-transition: 0.2s all;
+    -ms-transition: 0.2s all;
+    transition: 0.2s all, background 0.4s;
+}
+
+.notfound a:hover {
+    background: #ffb152;
+}

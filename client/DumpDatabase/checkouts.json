@@ -1,0 +1,1203 @@
+[{
+  "_id": {
+    "$oid": "64f9f154ce12c49e6c5be761"
+  },
+  "totalQty": 1,
+  "totalCost": 213894,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64f9f144ce12c49e6c5be755"
+      },
+      "qty": 1,
+      "price": 213894,
+      "productId": {
+        "$oid": "6444cb1e456627138f0e3c7c"
+      },
+      "title": "Apple MacBook Pro 14 2021'",
+      "imagePath": "images/Laptops/Apple/la20.avif",
+      "productCode": "la20"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694101844154"
+    }
+  },
+  "user": {
+    "$oid": "64f9d6de5cc0c09704809ff2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f9f26bda143d9b9cdce94b"
+  },
+  "totalQty": 2,
+  "totalCost": 275980,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64f9f259da143d9b9cdce938"
+      },
+      "qty": 2,
+      "price": 275980,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694102123181"
+    }
+  },
+  "user": {
+    "$oid": "64f9d6de5cc0c09704809ff2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f9f491a7c14e8f2438d4b2"
+  },
+  "totalQty": 2,
+  "totalCost": 129999,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64f9f475a7c14e8f2438d48f"
+      },
+      "qty": 1,
+      "price": 98000,
+      "productId": {
+        "$oid": "6444252a867e4ad200ca2c89"
+      },
+      "title": "ASUS TUF Gaming A15 FA506QM-HN124W AMD Ryzen 9'",
+      "imagePath": "images/Laptops/Asus/las20.avif",
+      "productCode": "las20"
+    },
+    {
+      "_id": {
+        "$oid": "64f9f481a7c14e8f2438d4a5"
+      },
+      "qty": 1,
+      "price": 31999,
+      "productId": {
+        "$oid": "6444d21b456627138f0e3c80"
+      },
+      "title": "SAMSUNG Galaxy Watch5 Smartwatch with Activity Tracker (40mm Super AMOLED Display, Water Resistant, Purple Strap)",
+      "imagePath": "images/wearables/samsung/ws10.avif",
+      "productCode": "ws10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694102673253"
+    }
+  },
+  "user": {
+    "$oid": "64f9d6de5cc0c09704809ff2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f9f6d42459d67e08512922"
+  },
+  "totalQty": 3,
+  "totalCost": 98998,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64f9f6b02459d67e085128f3"
+      },
+      "qty": 1,
+      "price": 98000,
+      "productId": {
+        "$oid": "6444252a867e4ad200ca2c89"
+      },
+      "title": "ASUS TUF Gaming A15 FA506QM-HN124W AMD Ryzen 9'",
+      "imagePath": "images/Laptops/Asus/las20.avif",
+      "productCode": "las20"
+    },
+    {
+      "_id": {
+        "$oid": "64f9f6b22459d67e085128fb"
+      },
+      "qty": 2,
+      "price": 998,
+      "productId": {
+        "$oid": "6444c5d3456627138f0e3c77"
+      },
+      "title": "boAt Bassheads 100 Wired Earphone",
+      "imagePath": "images/earphones/boat/asb30.webp",
+      "productCode": "asb30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694103252810"
+    }
+  },
+  "user": {
+    "$oid": "64f9d6de5cc0c09704809ff2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fca900f4fbba498c236ae7"
+  },
+  "totalQty": 1,
+  "totalCost": 1299,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64fca8f4f4fbba498c236adb"
+      },
+      "qty": 1,
+      "price": 1299,
+      "productId": {
+        "$oid": "64441126c2c4ccd69b5154e0"
+      },
+      "title": "boAt Airdopes 113 Wireless Gaming Earbuds",
+      "imagePath": "images/earphones/boat/asb10.webp",
+      "productCode": "asb10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694279936462"
+    }
+  },
+  "user": {
+    "$oid": "64fc93e445dd4a44acdd1be0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fd8598979d2968a012710f"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64fd8577979d2968a01270ef"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694336408801"
+    }
+  },
+  "user": {
+    "$oid": "64fc93e445dd4a44acdd1be0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fdf0ec2fb0b2208897b2b3"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64fdf0dc2fb0b2208897b2a7"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694363884054"
+    }
+  },
+  "user": {
+    "$oid": "64fc93e445dd4a44acdd1be0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fea34134a4a79c44cb24f8"
+  },
+  "totalQty": 2,
+  "totalCost": 155990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64fea31d34a4a79c44cb24e4"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    },
+    {
+      "_id": {
+        "$oid": "64fea32034a4a79c44cb24ec"
+      },
+      "qty": 1,
+      "price": 18000,
+      "productId": {
+        "$oid": "64440e83c2c4ccd69b5154df"
+      },
+      "title": "Apple Airpods (3rd Generation)with Lightning Charging Case",
+      "imagePath": "images/earphones/apple/asa10.webp",
+      "productCode": "asa10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694409537705"
+    }
+  },
+  "user": {
+    "$oid": "64faf78e43bcd40f2c8490c8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fea37b34a4a79c44cb2523"
+  },
+  "totalQty": 2,
+  "totalCost": 30480,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64fea35e34a4a79c44cb250f"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    },
+    {
+      "_id": {
+        "$oid": "64fea36034a4a79c44cb2517"
+      },
+      "qty": 1,
+      "price": 12990,
+      "productId": {
+        "$oid": "6444084ac2c4ccd69b5154d6"
+      },
+      "title": "Oppo A16 (4GB RAM, 64GB, Royal Gold)",
+      "imagePath": "images/mobiles/oppo/mo10.webp",
+      "productCode": "mo10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694409595962"
+    }
+  },
+  "user": {
+    "$oid": "64faf78e43bcd40f2c8490c8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff3558ec93db38fc2e8f88"
+  },
+  "totalQty": 4,
+  "totalCost": 189288,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff34f5ec93db38fc2e8f43"
+      },
+      "qty": 1,
+      "price": 1299,
+      "productId": {
+        "$oid": "64441126c2c4ccd69b5154e0"
+      },
+      "title": "boAt Airdopes 113 Wireless Gaming Earbuds",
+      "imagePath": "images/earphones/boat/asb10.webp",
+      "productCode": "asb10"
+    },
+    {
+      "_id": {
+        "$oid": "64ff34f6ec93db38fc2e8f4b"
+      },
+      "qty": 1,
+      "price": 76999,
+      "productId": {
+        "$oid": "64440c65c2c4ccd69b5154d8"
+      },
+      "title": "SAMSUNG Galaxy S22 5G (8GB RAM, 256GB, Green)",
+      "imagePath": "images/mobiles/samsung/ms10.webp",
+      "productCode": "ms10"
+    },
+    {
+      "_id": {
+        "$oid": "64ff3508ec93db38fc2e8f57"
+      },
+      "qty": 1,
+      "price": 12990,
+      "productId": {
+        "$oid": "6444084ac2c4ccd69b5154d6"
+      },
+      "title": "Oppo A16 (4GB RAM, 64GB, Royal Gold)",
+      "imagePath": "images/mobiles/oppo/mo10.webp",
+      "productCode": "mo10"
+    },
+    {
+      "_id": {
+        "$oid": "64ff3521ec93db38fc2e8f6f"
+      },
+      "qty": 1,
+      "price": 98000,
+      "productId": {
+        "$oid": "6444252a867e4ad200ca2c89"
+      },
+      "title": "ASUS TUF Gaming A15 FA506QM-HN124W AMD Ryzen 9'",
+      "imagePath": "images/Laptops/Asus/las20.avif",
+      "productCode": "las20"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694446936529"
+    }
+  },
+  "user": {
+    "$oid": "64faf78e43bcd40f2c8490c8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff453746384b5248980763"
+  },
+  "totalQty": 1,
+  "totalCost": 76999,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff0f09fad8804b34ee61b6"
+      },
+      "qty": 1,
+      "price": 76999,
+      "productId": {
+        "$oid": "64440c65c2c4ccd69b5154d8"
+      },
+      "title": "SAMSUNG Galaxy S22 5G (8GB RAM, 256GB, Green)",
+      "imagePath": "images/mobiles/samsung/ms10.webp",
+      "productCode": "ms10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694450999822"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff455f46384b5248980789"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff454f46384b524898077c"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451039632"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff45a246384b52489807ad"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff459546384b52489807a0"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451106298"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff45d246384b52489807d5"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff45c246384b52489807c8"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451154470"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff461546384b52489807f9"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff45fe46384b52489807ec"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451221209"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff468246384b524898081e"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff467146384b5248980812"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451330263"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff46d546384b524898083a"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff46c646384b524898082e"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451413685"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff46fa46384b5248980856"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff46eb46384b524898084a"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451450359"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff47ae28f9284550c861ae"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff479e28f9284550c861a2"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451630173"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff47d716a9eb0514e904cb"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff47c616a9eb0514e904bf"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451671542"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff48f416a9eb0514e9051c"
+  },
+  "totalQty": 3,
+  "totalCost": 52470,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff485216a9eb0514e904e1"
+      },
+      "qty": 3,
+      "price": 52470,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694451956299"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff4ca216a9eb0514e905bb"
+  },
+  "totalQty": 4,
+  "totalCost": 69960,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff4b5316a9eb0514e90594"
+      },
+      "qty": 4,
+      "price": 69960,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694452898732"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff4cea16a9eb0514e905d7"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff4cdb16a9eb0514e905cb"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694452970896"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff4d1616a9eb0514e905f8"
+  },
+  "totalQty": 1,
+  "totalCost": 17490,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff4d0916a9eb0514e905ec"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694453014671"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff538016a9eb0514e906bc"
+  },
+  "totalQty": 4,
+  "totalCost": 301960,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff52a416a9eb0514e90663"
+      },
+      "qty": 2,
+      "price": 25980,
+      "productId": {
+        "$oid": "6444084ac2c4ccd69b5154d6"
+      },
+      "title": "Oppo A16 (4GB RAM, 64GB, Royal Gold)",
+      "imagePath": "images/mobiles/oppo/mo10.webp",
+      "productCode": "mo10"
+    },
+    {
+      "_id": {
+        "$oid": "64ff535616a9eb0514e90696"
+      },
+      "qty": 2,
+      "price": 275980,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694454656100"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ff59743a04969bf032066d"
+  },
+  "totalQty": 2,
+  "totalCost": 153998,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff59563a04969bf0320656"
+      },
+      "qty": 2,
+      "price": 153998,
+      "productId": {
+        "$oid": "64440c65c2c4ccd69b5154d8"
+      },
+      "title": "SAMSUNG Galaxy S22 5G (8GB RAM, 256GB, Green)",
+      "imagePath": "images/mobiles/samsung/ms10.webp",
+      "productCode": "ms10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694456180399"
+    }
+  },
+  "user": {
+    "$oid": "64ff58f03a04969bf03205c1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ffec1ea30fdb2690bf0e80"
+  },
+  "totalQty": 2,
+  "totalCost": 235990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ffebfaa30fdb2690bf0e64"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    },
+    {
+      "_id": {
+        "$oid": "64ffebfba30fdb2690bf0e6b"
+      },
+      "qty": 1,
+      "price": 18000,
+      "productId": {
+        "$oid": "64440e83c2c4ccd69b5154df"
+      },
+      "title": "Apple Airpods (3rd Generation)with Lightning Charging Case",
+      "imagePath": "images/earphones/apple/asa10.webp",
+      "productCode": "asa10"
+    },
+    {
+      "_id": {
+        "$oid": "64ffebfda30fdb2690bf0e71"
+      },
+      "qty": 1,
+      "price": 98000,
+      "productId": {
+        "$oid": "6444252a867e4ad200ca2c89"
+      },
+      "title": "ASUS TUF Gaming A15 FA506QM-HN124W AMD Ryzen 9'",
+      "imagePath": "images/Laptops/Asus/las20.avif",
+      "productCode": "las20"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694493726288"
+    }
+  },
+  "user": {
+    "$oid": "64faf78e43bcd40f2c8490c8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ffecc63294bd83b08a5c04"
+  },
+  "totalQty": 3,
+  "totalCost": 428287,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ffec933294bd83b08a5bcb"
+      },
+      "qty": 2,
+      "price": 427788,
+      "productId": {
+        "$oid": "6444cb1e456627138f0e3c7c"
+      },
+      "title": "Apple MacBook Pro 14 2021'",
+      "imagePath": "images/Laptops/Apple/la20.avif",
+      "productCode": "la20"
+    },
+    {
+      "_id": {
+        "$oid": "64ffeca53294bd83b08a5bed"
+      },
+      "qty": 1,
+      "price": 499,
+      "productId": {
+        "$oid": "6444c5d3456627138f0e3c77"
+      },
+      "title": "boAt Bassheads 100 Wired Earphone",
+      "imagePath": "images/earphones/boat/asb30.webp",
+      "productCode": "asb30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694493894584"
+    }
+  },
+  "user": {
+    "$oid": "64faf78e43bcd40f2c8490c8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ffef13f531bf1984af2b3a"
+  },
+  "totalQty": 2,
+  "totalCost": 30480,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ffeefcf531bf1984af2b26"
+      },
+      "qty": 1,
+      "price": 12990,
+      "productId": {
+        "$oid": "6444084ac2c4ccd69b5154d6"
+      },
+      "title": "Oppo A16 (4GB RAM, 64GB, Royal Gold)",
+      "imagePath": "images/mobiles/oppo/mo10.webp",
+      "productCode": "mo10"
+    },
+    {
+      "_id": {
+        "$oid": "64ffeefef531bf1984af2b2d"
+      },
+      "qty": 1,
+      "price": 17490,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694494483281"
+    }
+  },
+  "user": {
+    "$oid": "64faf78e43bcd40f2c8490c8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fff378b32709d3709ab93d"
+  },
+  "totalQty": 2,
+  "totalCost": 275980,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff605b090ad8e794bdab7b"
+      },
+      "qty": 2,
+      "price": 275980,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694495608432"
+    }
+  },
+  "user": {
+    "$oid": "64ff58f03a04969bf03205c1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64fff7b2a967d765f0e4013d"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64fff6faa967d765f0e40131"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694496690162"
+    }
+  },
+  "user": {
+    "$oid": "64fff1e7a967d765f0e400f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65000324b32709d3709ab9ab"
+  },
+  "totalQty": 4,
+  "totalCost": 174269,
+  "items": [
+    {
+      "_id": {
+        "$oid": "64ff541116a9eb0514e906d6"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    },
+    {
+      "_id": {
+        "$oid": "64ffeb6035439f438c22dc94"
+      },
+      "qty": 1,
+      "price": 1299,
+      "productId": {
+        "$oid": "64441126c2c4ccd69b5154e0"
+      },
+      "title": "boAt Airdopes 113 Wireless Gaming Earbuds",
+      "imagePath": "images/earphones/boat/asb10.webp",
+      "productCode": "asb10"
+    },
+    {
+      "_id": {
+        "$oid": "650002f8b32709d3709ab993"
+      },
+      "qty": 2,
+      "price": 34980,
+      "productId": {
+        "$oid": "644401e0c2c4ccd69b5154d4"
+      },
+      "title": "Oppo A76 (6GB RAM ,256GB, Glowing Black)",
+      "imagePath": "images/mobiles/oppo/mo30.webp",
+      "productCode": "mo30"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694499620514"
+    }
+  },
+  "user": {
+    "$oid": "64feabc7a70851293056cd7e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65000c0fdcce77e49c55ffec"
+  },
+  "totalQty": 2,
+  "totalCost": 275980,
+  "items": [
+    {
+      "_id": {
+        "$oid": "65000becdcce77e49c55ffd9"
+      },
+      "qty": 2,
+      "price": 275980,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694501903492"
+    }
+  },
+  "user": {
+    "$oid": "64ff58f03a04969bf03205c1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "650051aaa80f9ea28ca3be1c"
+  },
+  "totalQty": 1,
+  "totalCost": 137990,
+  "items": [
+    {
+      "_id": {
+        "$oid": "65005176a80f9ea28ca3be10"
+      },
+      "qty": 1,
+      "price": 137990,
+      "productId": {
+        "$oid": "6442336d45318afadbd6b66c"
+      },
+      "title": "Apple iPhone 14 Pro Max (256GB, Deep Purple)",
+      "imagePath": "images/mobiles/apple/ma10.webp",
+      "productCode": "ma10"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1694519722192"
+    }
+  },
+  "user": {
+    "$oid": "65005161a80f9ea28ca3bdee"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,19 @@
+.brands .wrapper-brand {
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 2em 0;
+}
+.wrapper-brand{
+    display: flex;
+    flex-direction: row;
+}
+
+.brands .item-brand img {
+    opacity: .25;
+    width: 9vw;
+    transition: opacity .3s;
+}
+
+.brands .item-brand a:hover img {
+    opacity: 1;
+}
